@@ -1,0 +1,11 @@
+.parent{
+    color: antiquewhite;
+    background-color: turquoise;
+}
+h1{
+    color: pink;
+}
+child1{
+    color: beige;
+    background-color: rgb(85, 197, 105);
+}
